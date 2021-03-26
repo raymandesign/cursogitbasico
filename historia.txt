@@ -3,3 +3,5 @@ Bienvenido al curso de Git.
 Gracias a Platzi
 
 Es importante para la programación trabajar Git
+
+Hoy comenzamos el curso de Git
