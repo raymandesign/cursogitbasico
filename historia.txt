@@ -1,6 +1,6 @@
 Bienvenido al curso de Git.
 
-Gracias a Platzi
+Gracias a Platzi por su aporte
 
 Es importante para la programación trabajar Git
 
