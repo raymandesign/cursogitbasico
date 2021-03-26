@@ -1,7 +1,7 @@
-Bienvenido al curso de Git.
+Bienvenido al curso de Github.
 
 Gracias a Platzi por su aporte en el crecimiento de estudiantes nuevos.
 
 Es importante para la programación trabajar Git
 
-Hoy comenzamos el curso de Git
+Hoy comenzamos el curso de Git y mañana nos enfocaremos en la vida laboral
