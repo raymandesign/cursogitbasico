@@ -1,4 +1,25 @@
-body{
-    color: brown;
+body
+{
+    color: #333;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    background-color: #fefefe;
+}
+
+#container
+{
+    width: 80%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #dedede;
+    margin-top: 5px;
+    margin:0 auto;
+    background-color: #f0f0f0;
+}
+
+#container{
+    font-size: 20px;
 }
