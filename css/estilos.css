@@ -1,19 +1,25 @@
 body
 {
-    color: #333;
+    background-color: #fefefe;
+    color: #000088;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 12px;
     margin: 0;
     padding: 0;
-    background-color: #fefefe;
 }
 
 #cabecera
 {
+<<<<<<< HEAD
     background-color: #552424;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color:#f0f0f0;
+=======
+    background-color: #3e6947;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color:#dedede;
+>>>>>>> cabecera
     margin:0;
     font-weight: bold;
     padding: 0.5em;
