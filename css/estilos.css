@@ -1,7 +1,7 @@
 body
 {
-    background-color: #dadada;
-    color: #000088;
+    background-color: #fefefe;
+    color: #00880b;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 12px;
@@ -13,7 +13,11 @@ body
 {
     background-color: #95ac9a;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+<<<<<<< HEAD
     color:rgb(32, 28, 68);
+=======
+    color:rgb(34, 7, 7);
+>>>>>>> cabecera
     margin:0;
     font-weight: bold;
     padding: 0.5em;
