@@ -11,9 +11,21 @@ body
 
 #cabecera
 {
+<<<<<<< HEAD
     background-color: #3e6947;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color:#dedede;
+=======
+<<<<<<< HEAD
+    background-color: #552424;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color:#f0f0f0;
+=======
+    background-color: #3e6947;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color:#dedede;
+>>>>>>> cabecera
+>>>>>>> master
     margin:0;
     font-weight: bold;
     padding: 0.5em;
